@@ -1,0 +1,26 @@
+
+
+DISCORD_TOKEN = ""
+
+QIWI_TOKEN = ""
+
+CAPTION_TRIES = 3
+
+maincategory1 = {
+    ,
+    ,
+    
+}
+
+Voice_User = ''
+Voice_Client = ''
+Voice_Admin = ''
+
+Verification_Category = ''
+Whid_id_channel = ''
+Id_Staff_Role = ''
+User_Role = ''
+Guild_id = ''
+
+lifetime = 999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999
+
